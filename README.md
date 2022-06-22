@@ -1,2 +1,2 @@
 # Khan-Code-automatizacion
-Automatización de la creación de cursos y estadisticas Acción STEM
+Automatización de la creación de cursos y estadísticas Acción STEM
