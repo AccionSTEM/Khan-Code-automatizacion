@@ -2,3 +2,4 @@
 *xls
 *txt
 *.ipynb_checkpoints
+*.env
